@@ -9,6 +9,7 @@ require 'vendor/autoload.php';
 // Traces being sent to SigNoz OTel Collector.
 // References - https://github.com/open-telemetry/opentelemetry-php
 
+// Teste de CI
 
 use DI\Bridge\Slim\Bridge;
 use DI\ContainerBuilder;
